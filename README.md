@@ -11,10 +11,8 @@ git clone https://github.com/JorgeRosbel/seccion-2.git
 cd seccion-2
 ```
 
-### 2. Install and Run
+### 2. Install 
 ```bash
-cd seccion-2
-
 # npm
 npm install
 ```
@@ -36,3 +34,10 @@ Configure your API Key in the `app.json`, within the `expo.android.config.google
     }
   }
 }
+```
+
+### 4. Run
+```bash
+# npm
+npm run android
+```
