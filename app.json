@@ -17,6 +17,11 @@
       "supportsTablet": true
     },
     "android": {
+       "permissions": [
+        "android.permission.INTERNET",
+        "android.permission.ACCESS_FINE_LOCATION",
+        "android.permission.ACCESS_COARSE_LOCATION"
+       ],
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -24,7 +29,7 @@
       "edgeToEdgeEnabled": true,
       "config": {
         "googleMaps": {
-          "apiKey": ""
+          "apiKey": "*******************"
         }
       }
     },
