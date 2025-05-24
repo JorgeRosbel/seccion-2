@@ -1,4 +1,4 @@
-### Prueba Técnica | Sección 1 - React
+### Prueba Técnica | Sección 2 - React Native
 
 
 ### 1. Clone the repository
